@@ -1,4 +1,4 @@
-# Hi there, I'm Aatman 👋
+# Hi there, I'm Aatman Panseriya 👋
 
 With 2.2 years of experience in backend engineering, I specialize in building scalable systems and automating complex workflows. I’m deeply interested in understanding the inner workings of technology, particularly distributed systems and microservices architecture. Always eager to learn, I explore emerging technologies to solve complex challenges.
 

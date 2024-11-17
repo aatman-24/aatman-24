@@ -1,26 +1,15 @@
-# Hi there, I'm Aatman Panseriya 👋
+# Hi there, I'm Aatman 👋
 
-I'm a passionate Software Engineer currently working at HashedIn by Deloitte, based in Bengaluru, India. I specialize in building scalable systems and automating complex workflows. I love tackling technical challenges and delivering impactful solutions.
+I'm a passionate Software Engineer currently working at HashedIn by Deloitte, Bengaluru, India.  
+I love building scalable systems and automating complex workflows.  
+Deeply interested in understanding the inner workings of technology and how it operates.  
+Fascinated by distributed systems and managing their complexities.  
+Always eager to learn and explore the depths of emerging technologies.
 
-## 💻 Technologies & Tools
-- **Languages**: Java, C++, Python, SQL
-- **Frameworks**: Spring Boot, Spring Security, Spring Batch, Spring Cloud, Django, Express.js, Node.js
-- **Databases**: PostgreSQL, MySQL, MongoDB, SQLite, Redis
-- **Tools**: AWS, Docker, RabbitMQ, Apache Kafka, Git, JUnit, Mockito
-- **Others**: GraphQL, API Gateway, Maven, Liquibase, Hibernate, Sequelize
+I primarily work with Java, Spring Boot, and Microservices to build scalable applications. My expertise extends to cloud technologies, particularly AWS, along with tools like Docker, RabbitMQ, and Apache Kafka for system orchestration. I also have strong experience in PostgreSQL for database management and use Git for version contro
 
 ## 🌱 Currently Learning
-- System Design
-- Advanced Kafka & Cloud Architecture
-
-## 🚀 Projects
-- **[Blood Donor Hub](#)**: A platform for managing blood donation and campaign processes, built with Spring Boot and MySQL.
-- **[BabyCareConnect](#)**: A baby growth tracking platform with personalized recommendations, built with Node.js, Express, and AWS.
-
-## 🏆 Achievements
-- Awarded the ‘Excellence Award’ at HashedIn by Deloitte for outstanding contributions.
-- Secured 3rd place in the Deloitte Tech Championship 2023.
-- Ranked in the Top 10 of the 'Code Innovation Series' by Incubate (2021).
+System Design, Advanced Kafka & Cloud Architecture, Distributed Systems, Microservices Architecture, Kubernetes
 
 ## 📬 Let's Connect
 - Email: [aatman.code@gmail.com](mailto:aatman.code@gmail.com)
